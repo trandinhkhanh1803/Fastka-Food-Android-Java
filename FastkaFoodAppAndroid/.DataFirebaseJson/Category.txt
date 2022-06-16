@@ -1,0 +1,24 @@
+{
+  "Category": {},
+  "01": {
+    "Name": "Pizza",
+    "Image": "https://cdn-icons-png.flaticon.com/512/3595/3595458.png"
+  },
+  "02": {
+    "Name": "Burger",
+    "Image": "https://cdn-icons-png.flaticon.com/512/877/877951.png",
+    "": {}
+  },
+  "03": {
+    "Name": "Hotdog",
+    "Image": "https://cdn-icons-png.flaticon.com/512/1256/1256450.png"
+  },
+  "04": {
+    "Name": "Drink",
+    "Image": "https://cdn-icons-png.flaticon.com/512/2738/2738730.png"
+  },
+  "05": {
+    "Name": "Donut",
+    "Image": "https://cdn-icons-png.flaticon.com/512/1041/1041345.png"
+  }
+}

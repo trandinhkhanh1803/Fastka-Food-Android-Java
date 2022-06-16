@@ -1,0 +1,29 @@
+{
+  "Users": {
+    "2E9qtSTq7wQpLRl0U1dCJ3ujjHv2": {
+      "email": "khanhvku@gmail.com",
+      "password": "123456",
+      "username": "Tran Dinh Khanh"
+    },
+    "N5xJpQW8vFd7B01AfJ0eVjbEnUy2": {
+      "email": "sieu@gmail.com",
+      "password": "123456",
+      "username": "sieu123"
+    },
+    "T5oxB8BjTXepz5JZBivdF8m8gF43": {
+      "email": "khanhtrandinh1803@gmail.com",
+      "password": "123123",
+      "username": "khanh"
+    },
+    "YeYOm74pB5eQN3hyJRrBqzHFCWM2": {
+      "email": "khanh@gmail.com",
+      "password": "123456",
+      "username": "khanh1"
+    },
+    "rx0l1e4vB9RMkLyr2h8XVpdB5QP2": {
+      "email": "tdkhanh@gmail.com",
+      "password": "123456",
+      "username": "admin"
+    }
+  }
+}

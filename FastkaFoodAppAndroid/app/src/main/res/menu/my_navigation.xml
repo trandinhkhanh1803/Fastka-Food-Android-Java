@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home_main"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home" />
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:title="@string/my_account">
+            <menu>
+                <item
+                    android:id="@+id/profile"
+                    android:icon="@drawable/ic_person"
+                    android:title="@string/my_profile" />
+
+                <item
+                    android:id="@+id/cart"
+                    android:icon="@drawable/ic_shopping"
+                    android:title="@string/my_cart" />
+                <item
+                    android:id="@+id/notif"
+                    android:icon="@drawable/ic_notifications"
+                    android:title="My Notification" />
+
+            </menu>
+        </item>
+
+        <item
+            android:id="@+id/support"
+            android:icon="@drawable/ic_contacts"
+            android:title="@string/support" />
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:title="@string/favourite_zone">
+            <menu>
+
+
+                <item
+                    android:id="@+id/policy"
+                    android:icon="@drawable/ic_error"
+                    android:title="Privacy Policy" />
+
+
+            </menu>
+        </item>
+
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_logout"
+            android:title="@string/logout" />
+    </group>
+</menu>
